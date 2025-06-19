@@ -36,4 +36,4 @@ Space-separated IDs for each frame:
 
 ---
 
-**Detailed documentation in Polish**: [data/README.md](data/README.md)
+**Detailed documentation in Polish**: [data/README.md](doc/README.md)
