@@ -574,4 +574,4 @@ def main(debug=False):
         tracker.update_previous_frame_ids(current_frame_ids)
 
 if __name__ == "__main__":
-    main(debug=False)  # Set debug=True to see detailed output and frame images
+    main(debug=True)  # Set debug=True to see detailed output and frame images
